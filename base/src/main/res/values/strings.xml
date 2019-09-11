@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anime Fan</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://preprodportal.sunnxt.in/.well-known/assetlinks.json\" }]</string>
+    <string name="urlof">[{ \"include\": \"https://preprodportal.sunnxt.in/" }]</string>
+</resources>

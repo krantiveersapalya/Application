@@ -1,0 +1,4 @@
+rootProject.name='Application'
+include ':base'
+include ':myapplicationinstalled'
+include ':instant'
